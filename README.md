@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Proficiencies
 
-![My Skills](https://skillicons.dev/icons?i=python,django,java,flask,gcp,react,postgresql,mysql,html,css,js,aws,redis,docker&perline=7)
+![My Skills](https://skillicons.dev/icons?i=python,django,java,flask,gcp,react,postgresql,mysql,html,css,js,aws,redis,docker&perline=7)(https://devguide.python.org)
 
 
 
