@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Technologies Used
+
+*   **Languages:** Python, JavaScript, HTML, CSS
+*   **Frameworks:** Django, React, Express.js
+*   **Databases:** PostgreSQL, MongoDB
+*   **Tools:** Docker, Git, VS Code
+
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DSsathish)
