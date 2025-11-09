@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Technologies Used
 
-*   **Languages:** Python, JavaScript, HTML, CSS
-*   **Frameworks:** Django, React, Express.js
-*   **Databases:** PostgreSQL, MongoDB
-*   **Tools:** Docker, Git, VS Code
-![My Skills](https://skillicons.dev/icons?i=python,django,java,flask,aws,gcp,react,postgresql,mysql,html,css&perline=6)
+![My Skills](https://skillicons.dev/icons?i=python,django,java,flask,aws,gcp,react,postgresql,mysql,html,css,docker&perline=6)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DSsathish)
