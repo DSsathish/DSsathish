@@ -2,6 +2,8 @@
 
 
 📫 How to reach me: thecaptainjackssparrow@gmail.com
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DSsathish)
 <!--
 **DSsathish/DSsathish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ## Proficiencies
 
 ![My Skills](https://skillicons.dev/icons?i=python,django,java,flask,gcp,react,postgresql,mysql,html,css,js,aws,redis,docker&perline=7)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DSsathish)
+
 
 
